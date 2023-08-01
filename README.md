@@ -1,1 +1,1 @@
-# form is a project for form validation in JS
+# form is a project for form validation in JS!
